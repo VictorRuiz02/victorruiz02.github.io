@@ -43,7 +43,7 @@ const projects = [
     stack: [],
     sourceCode: '',
     livePreview: '',
-    image: 'fotoVictor.jpg',
+    image: '',
     videoUrl: 'XYgaUZHpaFI'
   },
   {
